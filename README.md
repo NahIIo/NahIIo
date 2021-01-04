@@ -25,8 +25,9 @@
  
  <img src="http://img.shields.io/badge/-PHP-77BB4?style=flat&logo=php&logoColor=FFFFFF">
 
- <img src="http://img.shields.io/badge/-docker-2496ed?style=flat&logo=docker&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=FFFFFF">
 
+ <img src="http://img.shields.io/badge/-Stack%32Overflow-fe7a16?style=flat&logo=Stack%32Overflow&logoColor=FFFFFF">
 
  Things I'm learning :
 
