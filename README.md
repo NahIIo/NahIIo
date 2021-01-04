@@ -6,7 +6,7 @@
 
  <div align=center>
 
- ## Things I'm currently working on :
+ ## Things I'm working on right now :
 
 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=netwhat&theme=radical)](https://github.com/NahIIo/netwhat)
