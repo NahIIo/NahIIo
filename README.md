@@ -11,7 +11,7 @@ I am currently a student at 42Paris.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=netwhat&theme=radical)](https://github.com/NahIIo/netwhat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=ft_server&theme=radical)](https://github.com/NahIIo/ft_server)
 
-</div>
+<div aling=left>
 
 Tools I use :
 
@@ -28,3 +28,4 @@ Things I'm learning :
   
   - <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
+</div>
