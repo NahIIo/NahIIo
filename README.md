@@ -10,3 +10,21 @@ I am currently a student at 42Paris.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=netwhat&theme=radical)](https://github.com/NahIIo/netwhat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=ft_server&theme=radical)](https://github.com/NahIIo/ft_server)
+
+</div>
+
+Tools I use :
+
+  - <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  
+  - <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+
+  - <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+
+
+Things I'm learning :
+
+  - <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+  
+  - <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+
