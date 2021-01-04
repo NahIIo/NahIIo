@@ -4,16 +4,16 @@
 
  I am currently a student at 42Paris.
 
- <toto align="center">
+ <div align=center>
 
  ## Things I'm currently working on :
 
 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=netwhat&theme=radical)](https://github.com/NahIIo/netwhat)
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=ft_server&theme=radical)](https://github.com/NahIIo/ft_server)
-  </toto>
+  </div>
 
- <tata aling=left>
+ <div aling=left>
 
  Tools I use :
 
@@ -30,5 +30,5 @@
   
  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
- </tata>
+ </div>
 </body>
