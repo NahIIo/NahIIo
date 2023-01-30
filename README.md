@@ -9,7 +9,7 @@
  ## Things I'm working on right now :
 
 
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=minishell&theme=radical)](https://github.com/NahIIo/netwhat)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NahIIo&repo=minishell&theme=radical)](https://github.com/NahIIo/minishell)
   </div>
 
  <div aling=left>
