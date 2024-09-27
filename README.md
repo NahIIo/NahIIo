@@ -2,7 +2,6 @@
  
  # Hi ! I'm Nahllo :octocat: .
 
- I am currently a student at 42Paris.
 
  <div align=center>
 
